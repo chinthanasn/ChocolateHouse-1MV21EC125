@@ -1,10 +1,16 @@
 # ChocolateHouse-1MV21EC125
-aptitude project for L7 Informatics
+aptitude project for L7 Informatics 
+
+
 -> To Run the backend server
+
     1. change directory to server.
     2. run command 'python app.py'
     3. make sure CORS is allowed in your machine
+
+    
 -> to run the front end
+
     1. Install Live server extention on your IDE
     2. open index.html in frontend folder
     3. run the live server
